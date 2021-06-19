@@ -1,2 +1,2 @@
 # pseudorandom-number-generator
-Tech: C++
+C++
